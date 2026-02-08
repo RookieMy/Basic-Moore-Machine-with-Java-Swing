@@ -6,6 +6,9 @@ Originally developed as a university project and later repackaged for demonstrat
 
 ---
 
+## Note
+This project focuses on demonstrating finite state machine logic rather than production-level UI design.
+
 ## Features
 
 - Create finite state machines with up to 20 states
@@ -49,5 +52,4 @@ Then run:
 ```bash
 java -jar moore-machine-simulator.jar
 
-## Note
-This project focuses on demonstrating finite state machine logic rather than production-level UI design.
+
