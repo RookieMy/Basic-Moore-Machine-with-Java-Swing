@@ -48,3 +48,6 @@ Then run:
 
 ```bash
 java -jar moore-machine-simulator.jar
+
+## Note
+This project focuses on demonstrating finite state machine logic rather than production-level UI design.
