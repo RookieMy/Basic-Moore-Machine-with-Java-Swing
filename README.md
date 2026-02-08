@@ -42,7 +42,7 @@ This project focuses on demonstrating finite state machine logic rather than pro
 - Java 8 or higher
 
 ### Run the application
-
+No installation required.
 Download the latest `.jar` from the **Releases** section:
 
 👉 https://github.com/RookieMy/moore-machine-simulator/releases
