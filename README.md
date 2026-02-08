@@ -45,7 +45,7 @@ This project focuses on demonstrating finite state machine logic rather than pro
 
 Download the latest `.jar` from the **Releases** section:
 
-👉 https://github.com/YOUR_USERNAME/YOUR_REPO/releases
+👉 https://github.com/RookieMy/moore-machine-simulator/releases
 
 Then run:
 
