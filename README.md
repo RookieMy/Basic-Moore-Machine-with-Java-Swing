@@ -6,8 +6,17 @@ Originally developed as a university project and later repackaged for demonstrat
 
 ---
 
-## Note
-This project focuses on demonstrating finite state machine logic rather than production-level UI design.
+## Why This Project?
+
+This project demonstrates the implementation of finite state machine logic combined with a desktop user interface.
+
+It highlights skills in:
+
+- State-based system design
+- Algorithmic thinking
+- Java desktop development
+- Software packaging
+
 
 ## Features
 
